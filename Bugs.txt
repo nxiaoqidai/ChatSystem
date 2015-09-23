@@ -1,0 +1,1 @@
+1 if user change his name, his room cannot be delected
